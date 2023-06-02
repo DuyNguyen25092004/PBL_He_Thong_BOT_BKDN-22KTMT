@@ -1,4 +1,4 @@
--------------- HỆ THỐNG TRẠM THU PHÍ BOT --------------
+                                            -------------- HỆ THỐNG TRẠM THU PHÍ BOT --------------
 
 1. GIỚI THIỆU
 - Đây là dự án đầu tư xây dựng công trình, tổ chức quản lý và kinh doanh có thu phí các dịch vụ sử dụng công trình với thời hạn dự tính thu hồi đủ vốn và thu được lợi nhuận.
@@ -55,7 +55,7 @@
     - Nguyễn Tấn Minh : tanminh51nbn@icloud.com
 
 
--------------- CÁM ƠN VÌ ĐÃ GHÉ THĂM DỰ ÁN CỦA CHÚNG TÔI --------------
+                                           -------------- CÁM ƠN VÌ ĐÃ GHÉ THĂM DỰ ÁN CỦA CHÚNG TÔI --------------
 
 
 
