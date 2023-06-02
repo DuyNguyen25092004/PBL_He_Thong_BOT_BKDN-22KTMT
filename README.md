@@ -43,7 +43,9 @@
             + b) Các mục lựa chọn ở các Menu thì không nên bấm kí tự vào vì nó sẽ sinh ra lỗi, chỉ nên bấm vào các số.
         
     * Người dùng: Có những mục cơ bản như Đăng nhập và Đăng kí tài khoản.
+    * 
         ![image](https://github.com/DuyNguyen25092004/PBL_He_Thong_BOT_BKDN-22KTMT2/assets/121710594/10dbc23a-670a-4dd4-8f7a-6af523a47ba0)
+
 
         - Nếu bạn chưa có tài khoản thì hãy bấm phím [2] để đăng kí tài khoản:
             + tài khoản : yêu cầu bạn phải nhập CCCD để tiện cho việc ghi nhớ cũng như truy vấn thông tin tài khoản
@@ -57,6 +59,7 @@
               * Lưu ý:
                + a) Khi bạn đăng kí tài khoản thành công, hệ thống sẽ tự động quy định xe của bạn là xe cá nhân, nếu bạn muốn thay đổi loại phương tiện của bạn thì hãy đến trụ sở và yêu cầu nhân viên thay đổi loại phương tiện của mình.
                + b) Các mục lựa chọn ở các Menu thì không nên bấm kí tự vào vì nó sẽ sinh ra lỗi, chỉ nên bấm vào các số.
+               
 5. CREDIT
 * Các nguồn tài liệu tham khảo: 
     - https://nhatvien.com
@@ -70,6 +73,7 @@
 * Những người thực hiện dự án :
     - Trần Duy nguyên
     - Nguyễn Tấn Minh
+    
 6. CONTACT
  - Nếu bạn có ý tưởng hoặc tìm thấy bất kì lỗi nào trong hệ thống của chúng tôi. Xin hãy liên lạc với chúng tôi !
  * FaceBook:
