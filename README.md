@@ -1,4 +1,4 @@
-                                            -------------- HỆ THỐNG TRẠM THU PHÍ BOT --------------
+                                        -------------- HỆ THỐNG TRẠM THU PHÍ BOT --------------
 
 1. GIỚI THIỆU
 - Đây là dự án đầu tư xây dựng công trình, tổ chức quản lý và kinh doanh có thu phí các dịch vụ sử dụng công trình với thời hạn dự tính thu hồi đủ vốn và thu được lợi nhuận.
@@ -14,6 +14,8 @@
 4. CÁCH SỬ DỤNG
 - Hệ thống bao gồm 2 hệ thống: hệ thống dành cho nhân viên(admin) và dành cho Người dùng
     * Admin: Có những mục bao gồm quản lí và thay đổi thông tin, tra cứu vé thông hành khi đi qua trạm , tổng kết ca làm, kiểm tra tổng doanh thu (chỉ dành cho quản lí)
+      ![image](https://github.com/DuyNguyen25092004/PBL_He_Thong_BOT_BKDN-22KTMT2/assets/121710594/fdf7a60e-6886-4cb0-a5fe-4dc0a80ae70d)
+
         - Để có thể truy cập vào các mục trên thì bạn phải đăng nhập, và tài khoản chỉ có thể được cấp bởi các nhà quản lí
         - Mục quản lí và thay đổi thông tin : để tra cứu thì bạn phải nhập căn cước công dân của người dùng, bạn sẽ có 2 lựa chọn đó là thay đổi thông tin hoặc là trở lại phần tra cứu thông tin. 
                  Lưu ý : riêng mục các loại dịch vụ thì nhân viên không thể thay đổi.
