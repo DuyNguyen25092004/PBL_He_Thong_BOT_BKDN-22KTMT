@@ -1,4 +1,4 @@
-                                        -------------- HỆ THỐNG TRẠM THU PHÍ BOT --------------
+                                    -------------- HỆ THỐNG TRẠM THU PHÍ BOT --------------
 
 1. GIỚI THIỆU
 - Đây là dự án đầu tư xây dựng công trình, tổ chức quản lý và kinh doanh có thu phí các dịch vụ sử dụng công trình với thời hạn dự tính thu hồi đủ vốn và thu được lợi nhuận.
@@ -69,7 +69,7 @@
     - https://luatvietnam.vn/linh-vuc-khac/bot-la-gi-883-91243-article.html // thông tin cần biết để thực hiện hệ thống 
 * Cám ơn những người sau đây đã giúp chúng tôi hoàn thành dự án:
     - Thầy Nguyễn Duy Nhật viễn : Giáo viên hướng dẫn
-    - Hoàng Văn Phi, Nguyễn Ngọc Lân : Thử nghiệm và đánhg giá dự án
+    - Hoàng Văn Phi, Nguyễn Ngọc Lân : Thử nghiệm và đánh giá dự án
 * Những người thực hiện dự án :
     - Trần Duy nguyên
     - Nguyễn Tấn Minh
@@ -84,7 +84,7 @@
     - Nguyễn Tấn Minh : tanminh51nbn@icloud.com
 
 
-                                           -------------- CÁM ƠN VÌ ĐÃ GHÉ THĂM DỰ ÁN CỦA CHÚNG TÔI --------------
+                                      -------------- CÁM ƠN VÌ ĐÃ GHÉ THĂM DỰ ÁN CỦA CHÚNG TÔI --------------
 
 
 
