@@ -18,12 +18,26 @@
         ![image](https://github.com/DuyNguyen25092004/PBL_He_Thong_BOT_BKDN-22KTMT2/assets/121710594/1c589504-aec8-4a4e-87b1-c612eb172a96)
 
         - Để có thể truy cập vào các mục trên thì bạn phải đăng nhập, và tài khoản chỉ có thể được cấp bởi các nhà quản lí
+        - 
         ![image](https://github.com/DuyNguyen25092004/PBL_He_Thong_BOT_BKDN-22KTMT2/assets/121710594/d2c34697-740f-43cc-a3ab-ea25083be7c4)
+        
 
         - Mục quản lí và thay đổi thông tin : để tra cứu thì bạn phải nhập căn cước công dân của người dùng, bạn sẽ có 2 lựa chọn đó là thay đổi thông tin hoặc là trở lại phần tra cứu thông tin. 
+        
+        ![image](https://github.com/DuyNguyen25092004/PBL_He_Thong_BOT_BKDN-22KTMT2/assets/121710594/5fe45bfe-11f4-4dfe-88b1-3dc340cbc3d2)
+
+  
                  Lưu ý : riêng mục các loại dịch vụ thì nhân viên không thể thay đổi.
         - Mục tra cứu vé thông hành : để có thể tra cứu các loại xe và các loại dịch vụ mà người dùng đã đăng kí thì bạn phải nhập biển số xe của người đó khi đi qua trạm, sau đó màn hình sẽ hiện lên loại dịch vụ tương ứng và số tiền tương ứng cần thu.
+        - 
+        ![image](https://github.com/DuyNguyen25092004/PBL_He_Thong_BOT_BKDN-22KTMT2/assets/121710594/b8a4fe7a-8774-43b4-ac89-712917a89142)
+
+
         - Sau khi hết ca làm thì nhân viên sẽ phải bấm vào mục tổng kết ca làm và đăng xuất để lưu lại số tiền và lịch sử mà xe đã đi qua.
+
+        ![image](https://github.com/DuyNguyen25092004/PBL_He_Thong_BOT_BKDN-22KTMT2/assets/121710594/5d380192-5415-4ad2-acc3-2cbde7f1a507)
+
+
         * Lưu ý: 
             a) Nếu bạn muốn thoát khỏi mục tra cứu thì bạn hãy bấm kí tự "thoat" để có thể trở lại menu chính.
             b) Các mục lựa chọn ở các Menu thì không nên bấm kí tự vào vì nó sẽ sinh ra lỗi, chỉ nên bấm vào các số.
