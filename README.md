@@ -7,7 +7,7 @@
 -Trước khi bạn tiếp tục, hãy chắc rằng bạn đã cài phiên bản mới nhất của C++ và có 1 bộ thông dịch cho nó
 
 3. CÁCH CÀI ĐẶT
-- Hiện nay có rất nhiều bộ thông dịch phổ biến nhất hiện nay: Vscode, DevC++, Codeblock,...
+- Hiện nay có rất nhiều bộ thông dịch phổ biến như: Vscode, DevC++, Codeblock,...
 - Nếu bạn muốn cài bộ thông dịch Vscode, vui lòng truy cập vào đường dẫn bên dưới:
         https://code.visualstudio.com/docs/languages/cpp
 
