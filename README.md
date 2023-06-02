@@ -39,8 +39,9 @@
 
 
         * Lưu ý: 
-            a) Nếu bạn muốn thoát khỏi mục tra cứu thì bạn hãy bấm kí tự "thoat" để có thể trở lại menu chính.
-            b) Các mục lựa chọn ở các Menu thì không nên bấm kí tự vào vì nó sẽ sinh ra lỗi, chỉ nên bấm vào các số.
+        
+            + a) Nếu bạn muốn thoát khỏi mục tra cứu thì bạn hãy bấm kí tự "thoat" để có thể trở lại menu chính
+            + b) Các mục lựa chọn ở các Menu thì không nên bấm kí tự vào vì nó sẽ sinh ra lỗi, chỉ nên bấm vào các số.
         
     * Người dùng: Có những mục cơ bản như Đăng nhập và Đăng kí tài khoản.
         - Nếu bạn chưa có tài khoản thì hãy bấm phím [2] để đăng kí tài khoản:
@@ -49,8 +50,9 @@
         - Khi đã đăng kí tài khoản thì bạn vào mục đăng nhập để nhập tài khoản và mật khẩu của mình đã đăng kí trước đó.
             + khi đăng nhập thành công thì bạn có thể xuất thông tin của mình để kiểm tra hoặc đăng kí các loại dịch vụ tương ứng với loại phương tiện của mình
         * lưu ý:
-            a) Khi bạn đăng kí tài khoản thành công, hệ thống sẽ tự động quy định xe của bạn là xe cá nhân, nếu bạn muốn thay đổi loại phương tiện của bạn thì hãy đến trụ sở và yêu cầu nhân viên thay đổi loại phương tiện của mình.
-            b) Các mục lựa chọn ở các Menu thì không nên bấm kí tự vào vì nó sẽ sinh ra lỗi, chỉ nên bấm vào các số.
+        
+            + a) Khi bạn đăng kí tài khoản thành công, hệ thống sẽ tự động quy định xe của bạn là xe cá nhân, nếu bạn muốn thay đổi loại phương tiện của bạn thì hãy đến trụ sở và yêu cầu nhân viên thay đổi loại phương tiện của mình.
+            + b) Các mục lựa chọn ở các Menu thì không nên bấm kí tự vào vì nó sẽ sinh ra lỗi, chỉ nên bấm vào các số.
 5. CREDIT
 * Các nguồn tài liệu tham khảo: 
     - https://nhatvien.com
