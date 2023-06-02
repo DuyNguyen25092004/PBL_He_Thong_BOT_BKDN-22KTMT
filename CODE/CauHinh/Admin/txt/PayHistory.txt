@@ -1,0 +1,137 @@
+__________________________________________________________________
+                    |                   |       
+Bien so             | Thu nhap          | Thoi gian qua tram
+____________________|___________________|_________________________
+Sat May 27 09:29:08 2023
+> Nguoi truc: 0932094127
+                    | 50,000            | Sat May 27 09:29:12 2023
+                    | 50,000            | Sat May 27 09:29:14 2023
+43A14504            | Ve C.N thang      | Sat May 27 09:29:22 2023
+                    | 75,000            | Sat May 27 09:29:35 2023
+                    | 220,000           | Sat May 27 09:29:39 2023
+75A02569            | Ve C.N quy        | Sat May 27 09:29:48 2023
+                    | 200,000           | Sat May 27 09:29:54 2023
+                    | Tong tien ca: 595,000   VND
+
+Wed May 31 01:17:07 2023
+> Nguoi truc: 0123456789
+75A02569            | Ve C.N quy        | Wed May 31 01:17:18 2023
+                    | 50,000            | Wed May 31 01:17:23 2023
+Wed May 31 01:24:46 2023
+> Nguoi truc: 0123456789
+Wed May 31 01:31:40 2023
+> Nguoi truc: 0123456789
+Wed May 31 11:13:01 2023
+> Nguoi truc: 0123456789
+Wed May 31 11:17:38 2023
+> Nguoi truc: 0123456789
+Wed May 31 11:18:37 2023
+> Nguoi truc: 0123456789
+Wed May 31 11:26:58 2023
+> Nguoi truc: 0123456789
+Wed May 31 11:27:45 2023
+> Nguoi truc: 0123456789
+Wed May 31 11:29:17 2023
+> Nguoi truc: 0123456789
+Wed May 31 11:38:03 2023
+> Nguoi truc: 0123456789
+Wed May 31 12:01:39 2023
+> Nguoi truc: 0123456789
+75A02569            | Ve C.N quy        | Wed May 31 12:01:45 2023
+Wed May 31 12:24:39 2023
+> Nguoi truc: 0123456789
+                    | Tong tien ca: 0,000   VND
+
+Wed May 31 13:28:13 2023
+> Nguoi truc: 0123456789
+                    | Tong tien ca: 0,000   VND
+
+Wed May 31 13:32:45 2023
+> Nguoi truc: 0123456789
+75A02569            | Ve C.N quy        | Wed May 31 13:32:53 2023
+                    | Tong tien ca: 0,000   VND
+
+Wed May 31 13:35:48 2023
+> Nguoi truc: 0123456789
+75A02569            | Ve C.N quy        | Wed May 31 13:35:55 2023
+                    | Tong tien ca: 30,000   VND
+
+Wed May 31 19:08:43 2023
+> Nguoi truc: 0123456789
+Wed May 31 19:10:28 2023
+> Nguoi truc: 0123456789
+                    | Tong tien ca: 0,000   VND
+
+Wed May 31 19:11:50 2023
+> Nguoi truc: 0123456789
+Wed May 31 19:15:11 2023
+> Nguoi truc: 0123456789
+75A02569            | Ve C.N quy        | Wed May 31 19:15:18 2023
+Wed May 31 19:17:56 2023
+> Nguoi truc: 0123456789
+Wed May 31 19:19:12 2023
+> Nguoi truc: 0123456789
+Wed May 31 19:21:52 2023
+> Nguoi truc: 0123456789
+Wed May 31 19:24:00 2023
+> Nguoi truc: 0123456789
+Wed May 31 19:30:50 2023
+> Nguoi truc: 0123456789
+Wed May 31 19:34:29 2023
+> Nguoi truc: 0123456789
+Wed May 31 19:38:42 2023
+> Nguoi truc: 0123456789
+Wed May 31 19:40:18 2023
+> Nguoi truc: 0123456789
+                    | Tong tien ca: 0,000   VND
+
+Wed May 31 19:41:40 2023
+> Nguoi truc: 0123456789
+Wed May 31 19:43:30 2023
+> Nguoi truc: 0123456789
+                    | Tong tien ca: 0,000   VND
+
+Wed May 31 19:44:28 2023
+> Nguoi truc: 0123456789
+75A02569            | Ve C.N thang      | Wed May 31 19:44:35 2023
+                    | Tong tien ca: 35,000   VND
+
+Wed May 31 19:45:58 2023
+> Nguoi truc: 0123456789
+75A02569            | Ve C.N thang      | Wed May 31 19:46:04 2023
+Wed May 31 19:54:43 2023
+> Nguoi truc: 0123456789
+                    | Tong tien ca: 0,000   VND
+
+Thu Jun 01 12:53:03 2023
+> Nguoi truc: 0123456789
+                    | Tong tien ca: 0,000   VND
+
+Fri Jun 02 20:00:55 2023
+> Nguoi truc: 0123456789
+Fri Jun 02 20:04:23 2023
+> Nguoi truc: 0123456789
+75A02569            | Ve C.N quy        | Fri Jun 02 20:09:03 2023
+                    | Tong tien ca: 30,000   VND
+
+Fri Jun 02 21:43:03 2023
+> Nguoi truc: 0123456789
+046204009491        | Khong Dang Ki     | Fri Jun 02 21:44:06 2023
+Fri Jun 02 21:46:46 2023
+> Nguoi truc: 0123456789
+Fri Jun 02 21:47:56 2023
+> Nguoi truc: 0123456789
+Fri Jun 02 21:51:44 2023
+> Nguoi truc: 0123456789
+Fri Jun 02 21:53:32 2023
+> Nguoi truc: 0123456789
+Fri Jun 02 21:54:22 2023
+> Nguoi truc: 0123456789
+Fri Jun 02 21:59:57 2023
+> Nguoi truc: 0123456789
+75A02569            | Ve C.N quy        | Fri Jun 02 22:00:07 2023
+Fri Jun 02 22:01:10 2023
+> Nguoi truc: 0123456789
+75A02569            | Ve C.N quy        | Fri Jun 02 22:01:16 2023
+                    | Tong tien ca: 30,000   VND
+
