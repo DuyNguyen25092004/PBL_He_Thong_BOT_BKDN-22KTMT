@@ -13,6 +13,7 @@
 
 4. CÁCH SỬ DỤNG
 - Hệ thống bao gồm 2 hệ thống: hệ thống dành cho nhân viên(admin) và dành cho Người dùng
+- Để có thể chạy file hệ thống admin hoặc user, bạn vào mục code-> click vào file Admin/User -> click vào file he_thong_admin/user.exe 
     * Admin: Có những mục bao gồm quản lí và thay đổi thông tin, tra cứu vé thông hành khi đi qua trạm , tổng kết ca làm, kiểm tra tổng doanh thu (chỉ dành cho quản lí)
     
         ![image](https://github.com/DuyNguyen25092004/PBL_He_Thong_BOT_BKDN-22KTMT2/assets/121710594/1c589504-aec8-4a4e-87b1-c612eb172a96)
