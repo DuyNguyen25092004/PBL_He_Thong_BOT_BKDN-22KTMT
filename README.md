@@ -84,7 +84,7 @@
     - Nguyễn Tấn Minh : tanminh51nbn@icloud.com
 
 
-                                      -------------- CÁM ƠN VÌ ĐÃ GHÉ THĂM DỰ ÁN CỦA CHÚNG TÔI --------------
+                                 -------------- CÁM ƠN VÌ ĐÃ GHÉ THĂM DỰ ÁN CỦA CHÚNG TÔI --------------
 
 
 
