@@ -43,12 +43,17 @@
             + b) Các mục lựa chọn ở các Menu thì không nên bấm kí tự vào vì nó sẽ sinh ra lỗi, chỉ nên bấm vào các số.
         
     * Người dùng: Có những mục cơ bản như Đăng nhập và Đăng kí tài khoản.
+        ![image](https://github.com/DuyNguyen25092004/PBL_He_Thong_BOT_BKDN-22KTMT2/assets/121710594/10dbc23a-670a-4dd4-8f7a-6af523a47ba0)
+
         - Nếu bạn chưa có tài khoản thì hãy bấm phím [2] để đăng kí tài khoản:
             + tài khoản : yêu cầu bạn phải nhập CCCD để tiện cho việc ghi nhớ cũng như truy vấn thông tin tài khoản
             + Sau đó bạn nhập lần lượt từng mục : mật khẩu, tên người dùng, căn cước công dân.
         - Khi đã đăng kí tài khoản thì bạn vào mục đăng nhập để nhập tài khoản và mật khẩu của mình đã đăng kí trước đó.
-             khi đăng nhập thành công thì bạn có thể xuất thông tin của mình để kiểm tra hoặc đăng kí các loại dịch vụ tương ứng với loại phương tiện của mình
-             
+        - Khi đăng nhập thành công thì bạn có thể xuất thông tin của mình để kiểm tra hoặc đăng kí các loại dịch vụ tương ứng với loại phương tiện của mình
+           
+         ![image](https://github.com/DuyNguyen25092004/PBL_He_Thong_BOT_BKDN-22KTMT2/assets/121710594/74cd4a62-52f6-406d-babb-f8d606c20639)
+
+           
               * Lưu ý:
                + a) Khi bạn đăng kí tài khoản thành công, hệ thống sẽ tự động quy định xe của bạn là xe cá nhân, nếu bạn muốn thay đổi loại phương tiện của bạn thì hãy đến trụ sở và yêu cầu nhân viên thay đổi loại phương tiện của mình.
                + b) Các mục lựa chọn ở các Menu thì không nên bấm kí tự vào vì nó sẽ sinh ra lỗi, chỉ nên bấm vào các số.
